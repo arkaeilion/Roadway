@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7160df43c729c984085eba9029d59d81, type: 3}
+  m_Name: RoadwaySettingsDefault
+  m_EditorClassIdentifier: 
+  RoadCenterMat: {fileID: 2100000, guid: 4155ea7ed6202234390ff160462627b5, type: 2}
+  RoadLaneMat: {fileID: 2100000, guid: ea4827bb85a347144bf5de39aa30a0be, type: 2}
+  RoadLaneTransitionMat: {fileID: 2100000, guid: ebf1fced99163a642b0cf6333e7fba3d, type: 2}
+  IntersectionMat: {fileID: 2100000, guid: efb5d99df2d77d84b8a9b429150a6a3e, type: 2}
+  RoadDrivingSide: 0
+  RoadUnitOptions: 0
+  MaxRoadCenterWidth: 50
+  RoadLift: 0.01
+  LaneWidth: 4
+  Tiling: 3
+  RoadBaseColor: {r: 0.42, g: 0.41, b: 0.42, a: 1}
+  RoadOuterLineColor: {r: 0.9, g: 0.9, b: 0.9, a: 1}
+  RoadInnerLineColor: {r: 0.77, g: 0.5, b: 0.12, a: 1}
+  RoadDashLineColor: {r: 0.9, g: 0.9, b: 0.9, a: 1}
+  RoadLineWidth: 0.03
+  RoadOuterLineDistance: 0
+  RoadDashRatio: 0.5
+  RoadCenterOuterLineDistance: 0.9
+  MaxLanesPerRoadSide: 6
